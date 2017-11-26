@@ -1,0 +1,2 @@
+# simpla
+test simpla component
